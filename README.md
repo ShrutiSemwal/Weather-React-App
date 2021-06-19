@@ -71,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-Link for app: https://weather-details-app.netlify.app/
